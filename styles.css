@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #d1d3d4;
+    background-color: #034694;
+}
+  
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #d1d3d4;
+    padding: 10px 20px;
+}
+  
+.navbar .logo img {
+    height: 50px;
+}
+  
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+}
+  
+.navbar ul li a {
+    text-decoration: none;
+    color: #034694;
+    font-weight: bold;
+}
+  
+.login-btn {
+    background-color: #034694;
+    color: #d1d3d4;
+    border: none;
+    padding: 10px 15px;
+    font-size: 14px;
+    cursor: pointer;
+}
+  
+.box1 {
+    text-align: center;
+    padding: 50px 20px;
+    height: 400px;
+}
+  
+.box1 h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+  
+.box1 p {
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 18px;
+}
+  
+.box2 {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    align-items: center;
+}
+  
+.box2 img {
+    width: 50%;
+    border-radius: 10px;
+}
+  
+.box2 .text {
+    width: 50%;
+}
+  
+.box2 h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+  
+.box2 p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+  
+.box3{
+    background-color: #d1d3d4;
+}
+
+.box4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 20px;
+    background-color: #034694;
+    color: #d1d3d4;
+}
+  
+.text4 {
+    width: 50%;
+    padding-right: 20px;
+}
+  
+.text4 h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+  
+.text4 p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+  
+.img4 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+  
+.img4 img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+  
+.box5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #034694; 
+    padding: 50px 20px;
+    color: #d1d3d4;
+    text-align: center;
+    gap: 20px;
+}
+
+.box5 h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.quiz {
+  margin-top: 20px;
+}
+
+.quiz p {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.quizbtn{
+  background-color: #d1d3d4;
+  color: #034694;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.quizbtn:hover {
+  background-color: #001a57;
+  color: #d1d3d4;
+}
