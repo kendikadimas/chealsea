@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CHELSEA</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header class="navbar">
         <div class="logo">
-            <img src="logo.png">
+            <img src="./media/logo/chelsea.png">
         </div>
         <nav>
             <ul>
@@ -25,8 +25,8 @@
     </header>
 
     <section class="bkgrndvid">
-        <video autoplay muted loop>
-            <source src="1.mp4" type="video/mp4">
+        <video autoplay muted loop width="100%" height="100">
+            <source src="3.mp4" type="video/mp4">
         </video>
         <h1>SEE OUR HISTORY!!!</h1>
     </section>
@@ -37,6 +37,11 @@
             <img src="img2.jpg">
             <img src="img3.jpg">
             <img src="img2.jpg">
+            <img src="img3.jpg">
+            <img src="img2.jpg">
+            <img src="img3.jpg">
+            <img src="img2.jpg">
+            <img src="img3.jpg">
         </div>
     </section>
 </body>

@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CHEALSEA</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="navbar">
         <div class="logo">
-            <img src="logo.png">
+            <img src="./media/logo/chelsea.png">
         </div>
         <nav>
             <ul>
@@ -37,9 +37,7 @@
                 <h2>Great Journey Awaits!</h2>
                 <p>Explore the home of all true Blues fans! Stay updated with the latest match results, exclusive club news, and behind-the-scenes stories. Celebrate Chelsea’s victories, relive historic moments, and connect with fellow supporters worldwide.</p>
             </div>
-            <div class="img4">
-                <img src="img3.jpg">
-            </div>
+            <img src="img3.jpg">
     </section>
 
     <section class="box6">
