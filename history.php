@@ -25,8 +25,8 @@
     </header>
 
     <section class="bkgrndvid">
-        <video autoplay muted loop width="100%" height="100">
-            <source src="3.mp4" type="video/mp4">
+        <video autoplay muted loop>
+            <source src="./media/vidio/3.mp4" type="video/mp4">
         </video>
         <h1>SEE OUR HISTORY!!!</h1>
     </section>

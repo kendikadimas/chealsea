@@ -24,17 +24,52 @@
         <button class="login-btn">Login</button>
     </header>
 
-    <section class="box1">
+    <section class="bkgrndvid1">
+        <video autoplay muted loop>
+            <source src="./media/vidio/2.mp4" type="video/mp4">
+        </video>
+
         <h1>Join the Chelsea Family Online!</h1>
-        <p>Discover the pride and tradition of Chelsea Football Club in one place. From match updates and club news to iconic moments and fan highlights, this is where Blues fans unite to celebrate their love for the game. Stay connected and be part of the Chelsea journey!</p>
+        <div class="pbox1">
+            <p>Discover the pride and tradition of Chelsea Football Club in one place. From match updates and club news to iconic moments and fan highlights, this is where Blues fans unite to celebrate their love for the game. Stay connected and be part of the Chelsea journey!</p>
+        </div>
     </section>
 
     <section class="box2">
-        <img src="img2.jpg">
+        <img src="./media/club/img2.jpg">
         <div class="text">
             <h2>The Most Successful Football Club in London</h2>
             <p>They are the only club to have won all three major European competitions twice. They are the only London club to have won the Champions League and the Club World Cup. Domestically, the club has won six league titles, eight FA Cups, five League Cups, and four FA Community Shields. Internationally, they have won the UEFA Champions League, the UEFA Europa League, the UEFA Cup Winners' Cup, the UEFA Super Cup twice, and the FIFA Club World Cup once. In terms of overall trophies won, Chelsea is the fifth-most successful club in English football.</p>
         </div>
+    </section>
+
+    <section class="merch-section">
+    <h2>Merch</h2>
+    <div class="merch-container">
+        <div class="merch-item">
+            <img src="./media/merch/jersey1.png">
+        </div>
+        <div class="merch-item">
+            <img src="./media/merch/jersey2.png">
+        </div>
+        <div class="merch-item">
+            <img src="./media/merch/botol.png">
+        </div>
+        <div class="merch-item">
+            <img src="./media/merch/jaket.png">
+        </div>
+        <div class="merch-item">
+            <img src="./media/merch/papan.png">
+        </div>
+        <div class="merch-item">
+            <img src="./media/merch/lanyard.png">
+        </div>
+    </div>
+    <div class="navigation">
+        <button class="arrow">&larr;</button>
+        <button class="arrow">&rarr;</button>
+    </div>
+        <button class="see-more">See more</button>
     </section>
 
     <section class="box3">
@@ -45,7 +80,7 @@
             <h2>Great Journey Awaits!</h2>
             <p>Explore the home of all true Blues fans! Stay updated with the latest match results, exclusive club news, and behind-the-scenes stories. Celebrate Chelsea’s victories, relive historic moments, and connect with fellow supporters worldwide.</p>
         </div>
-        <img src="img3.jpg">
+        <img src="./media/club/img3.jpg">
     </section>
       
       <section class="box5">
