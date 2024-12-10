@@ -240,19 +240,18 @@ body {
   
 .player {
     text-align: center;
-    padding: 20px;
+    padding: 150px;
 }
   
 .grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
 }
   
 .card {
     background-color: #1a1a1a;
     border-radius: 8px;
-    padding: 10px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -262,15 +261,11 @@ body {
     border-radius: 8px;
 }
   
-.card p {
-    margin: 10px 0;
-    font-weight: bold;
-}
-  
 .card button {
     background-color: #0073e6;
     color: #d1d3d4;
     border: none;
+    margin: 10px;
     padding: 8px 12px;
     border-radius: 4px;
     cursor: pointer;
@@ -505,7 +500,6 @@ body {
 
 /* INI PAGE History */
 .bkgrndvid {
-    
     height: 100vh;
     max-height: 100vh;
     width: auto;

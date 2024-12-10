@@ -33,11 +33,11 @@
     </section>
 
     <section class="box4">
-            <div class="text4">
-                <h2>Great Journey Awaits!</h2>
-                <p>Explore the home of all true Blues fans! Stay updated with the latest match results, exclusive club news, and behind-the-scenes stories. Celebrate Chelsea’s victories, relive historic moments, and connect with fellow supporters worldwide.</p>
-            </div>
-            <img src="img3.jpg">
+        <div class="text4">
+            <h2>Great Journey Awaits!</h2>
+            <p>Explore the home of all true Blues fans! Stay updated with the latest match results, exclusive club news, and behind-the-scenes stories. Celebrate Chelsea’s victories, relive historic moments, and connect with fellow supporters worldwide.</p>
+        </div>
+        <img src="img3.jpg">
     </section>
 
     <section class="box6">
@@ -45,63 +45,123 @@
         <h1>Vote Pemain Favoritmu!!</h1>
         <div class="grid">
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/1.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/2.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/3.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/4.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/5.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/6.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/7.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/8.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/9.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/10.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/11.png">
                 <button>Vote</button>
             </div>
             <div class="card">
-                <img src="player.png" >
-                <p>Reece James</p>
+                <img src="./media/player/12.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/13.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/14.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/15.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/16.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/17.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/18.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/19.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/20.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/21.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/22.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/23.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/24.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/25.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/26.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/27.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/28.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/29.png">
+                <button>Vote</button>
+            </div>
+            <div class="card">
+                <img src="./media/player/30.png">
                 <button>Vote</button>
             </div>
         </div>
