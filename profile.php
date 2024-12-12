@@ -25,10 +25,10 @@
     </header>
 
     <section class="box2">
-        <img src="img2.jpg">
+        <img src="./media/club/img2.jpg">
         <div class="text">
-            <h2>The Most Successful Football Club in London</h2>
-            <p>They are the only club to have won all three major European competitions twice. They are the only London club to have won the Champions League and the Club World Cup. Domestically, the club has won six league titles, eight FA Cups, five League Cups, and four FA Community Shields. Internationally, they have won the UEFA Champions League, the UEFA Europa League, the UEFA Cup Winners' Cup, the UEFA Super Cup twice, and the FIFA Club World Cup once. In terms of overall trophies won, Chelsea is the fifth-most successful club in English football.</p>
+            <h2>Chelsea FC: A Legacy of Excellence Since 1905</h2>
+            <p>They are the only club to have won all three major European competitions twice. They are the only London club to have won the Champions League and the Club World Cup.  Domestically, the club has won six league titles, eight FA Cups, five League Cups, and four FA Community Shields. Internationally, they have won the UEFA Champions League, the UEFA Europa League, the UEFA Cup Winners' Cup and the UEFA Super Cup twice each, and the FIFA Club World Cup once. In terms of ovChelsea Football Club, established in 1905, is one of England's most iconic football teams. Based in Stamford Bridge, London, Chelsea has achieved remarkable success in domestic and international competitions, including multiple Premier League and UEFA Champions League titles. The club's history reflects its evolution from a modest team to a global football powerhouse. Chelsea is known for its passionate fan base, talented squads, and a commitment to excellence both on and off the pitch. For a detailed history, visit Chelsea FC's official page.erall trophies won, Chelsea is the fifth-most successful club in English football.</p>
         </div>
     </section>
 
@@ -37,7 +37,7 @@
             <h2>Great Journey Awaits!</h2>
             <p>Explore the home of all true Blues fans! Stay updated with the latest match results, exclusive club news, and behind-the-scenes stories. Celebrate Chelsea’s victories, relive historic moments, and connect with fellow supporters worldwide.</p>
         </div>
-        <img src="img3.jpg">
+        <img src="./media/club/img3.jpg">
     </section>
 
     <section class="box6">

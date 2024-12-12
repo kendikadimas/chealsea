@@ -29,9 +29,9 @@
             <source src="./media/vidio/2.mp4" type="video/mp4">
         </video>
 
-        <h1>Join the Chelsea Family Online!</h1>
+        <h1>Welcome to the Pride of London</h1>
         <div class="pbox1">
-            <p>Discover the pride and tradition of Chelsea Football Club in one place. From match updates and club news to iconic moments and fan highlights, this is where Blues fans unite to celebrate their love for the game. Stay connected and be part of the Chelsea journey!</p>
+            <p>Chelsea FC is more than just a football club its a symbol of passion, unity, and greatness that inspires millions around the globe. From the roaring stands of Stamford Bridge to the hearts of fans worldwide, we represent the spirit of London with pride and ambition. Together, we honor the past, celebrate the present, and build the future. Welcome to the home of champions. Welcome to Chelsea. </p>
         </div>
     </section>
 
@@ -91,6 +91,5 @@
                 <button class="quizbtn">Take our quiz</button>
             </div>
       </section>
-      
 </body>
 </html>

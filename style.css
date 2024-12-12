@@ -70,7 +70,7 @@ body {
     z-index: 1;
     text-shadow: 15px 10px 15px rgba(0, 0, 0, 0.7);
     text-align: center;
-    margin-top: 100px;
+    margin-top: 9   0px;
 }   
 
 .pbox1{
@@ -115,7 +115,7 @@ body {
 }
   
 .box2 p {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.6;
 }
 
@@ -272,7 +272,7 @@ body {
 }
   
 .next-match, .upcoming-matches, .previous-matches {
-    background-color: #d1d3d4;
+    background-color: red;
     margin: 20px 0;
     padding: 20px;
     border-radius: 5px;
@@ -321,7 +321,7 @@ body {
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 5px;
-    background-color: #d1d3d4;
+    background-color: blueviolet    ;
 }
   
 .match-card img {
@@ -549,14 +549,14 @@ body {
 .gallery {
     display: flex;
     justify-content: center;
-    gap: 15px;
+    flex-wrap: wrap;
     margin: 30px 0;
     padding: 0 20px;
 }
 
 .gallery img {
-    width: 100px;
-    height: 150px;
+    width: 150px;
+    height: 160px;
     object-fit: cover;
     transition: transform 0.3s ease;
     cursor: pointer;
@@ -565,7 +565,7 @@ body {
 }
 
 .gallery img:hover {
-    transform: scale(1.2);
+    transform: scale(1.6);
     z-index: 1;
 }
 
@@ -653,7 +653,7 @@ body {
 .timeline img {
     width: 150px;
     height: 100px;
-    object-fit: cover;
+    object-fit: cover;                                                              
     transition: all 0.3s ease-in-out;
     cursor: pointer;
     border: 3px solid #d1d3d4;
