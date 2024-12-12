@@ -17,7 +17,6 @@
                 <li><a href="match.php">Match</a></li>
                 <li><a href="profile.php">Profile</a></li>
                 <li><a href="merch.php">Merch</a></li>
-                <li><a href="halloffame.php">Hall of Fame</a></li>
                 <li><a href="history.php">History</a></li>
             </ul>
         </nav>
@@ -25,19 +24,19 @@
     </header>
 
     <section class="box2">
-        <img src="./media/club/img2.jpg">
+        <img src="./media/club/img8.png">
         <div class="text">
             <h2>Chelsea FC: A Legacy of Excellence Since 1905</h2>
-            <p>They are the only club to have won all three major European competitions twice. They are the only London club to have won the Champions League and the Club World Cup.  Domestically, the club has won six league titles, eight FA Cups, five League Cups, and four FA Community Shields. Internationally, they have won the UEFA Champions League, the UEFA Europa League, the UEFA Cup Winners' Cup and the UEFA Super Cup twice each, and the FIFA Club World Cup once. In terms of ovChelsea Football Club, established in 1905, is one of England's most iconic football teams. Based in Stamford Bridge, London, Chelsea has achieved remarkable success in domestic and international competitions, including multiple Premier League and UEFA Champions League titles. The club's history reflects its evolution from a modest team to a global football powerhouse. Chelsea is known for its passionate fan base, talented squads, and a commitment to excellence both on and off the pitch. For a detailed history, visit Chelsea FC's official page.erall trophies won, Chelsea is the fifth-most successful club in English football.</p>
+            <p>Chelsea Football Club, founded in 1905 and based in Stamford Bridge, London, is among England's most successful football teams. Domestically, they have won six league titles, eight FA Cups, five League Cups, and four Community Shields. Internationally, Chelsea has claimed the Champions League, Europa League, Cup Winners' Cup, and Super Cup twice each, as well as the FIFA Club World Cup. They are the only club to win all three major European competitions twice and the only London club to win the Champions League and Club World Cup. Overall, Chelsea ranks fifth in English football for trophies won.</p>
         </div>
     </section>
 
     <section class="box4">
         <div class="text4">
-            <h2>Great Journey Awaits!</h2>
-            <p>Explore the home of all true Blues fans! Stay updated with the latest match results, exclusive club news, and behind-the-scenes stories. Celebrate Chelsea’s victories, relive historic moments, and connect with fellow supporters worldwide.</p>
+            <h2>A Legacy of Innovation and Ambition</h2>
+            <p>Over the decades, Chelsea has built a reputation for resilience and innovation, consistently adapting to the ever-evolving landscape of football. From legendary players gracing the pitch to iconic managers steering the club to glory, Chelsea's legacy is one of determination and ambition. The club's modern era has been marked by significant investment, which has fueled its ability to attract world-class talent and achieve historic milestones. Beyond the field, Chelsea remains committed to fostering community initiatives and promoting inclusivity, further solidifying its status as a cornerstone of global football culture.</p>
         </div>
-        <img src="./media/club/img3.jpg">
+        <img src="./media/club/img9.png">
     </section>
 
     <section class="box6">

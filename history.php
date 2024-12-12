@@ -17,7 +17,6 @@
                 <li><a href="match.php">Match</a></li>
                 <li><a href="profile.php">Profile</a></li>
                 <li><a href="merch.php">Merch</a></li>
-                <li><a href="halloffame.php">Hall of Fame</a></li>
                 <li><a href="history.php">History</a></li>
             </ul>
         </nav>
