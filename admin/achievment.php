@@ -51,7 +51,7 @@ if (isset($_POST['submit'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Player</title>
+    <title>Achievement</title>
     <link rel="stylesheet" href="admin.css?v=<?php echo time(); ?>"> <!-- Menghubungkan dengan file CSS -->
 </head>
 <body>
@@ -76,7 +76,7 @@ if (isset($_POST['submit'])) {
 
     <main class="content">
         <header class="header">
-            <h1>Player</h1>
+            <h1>Achievement</h1>
         </header>
 
         <section class="form-section">
@@ -116,14 +116,13 @@ if (isset($_POST['submit'])) {
                 echo "<td>
                         <a href='update.php?id={$data['idAchievement']}'>EDIT</a> | 
                         <a href='delete.php?id={$data['idAchievement']}'>HAPUS</a>
-                      </td>";
+                    </td>";
                 echo "</tr>";
             }
             ?>
         </tbody>
     </table>
 </section>
-
     </main>
 
 </body>

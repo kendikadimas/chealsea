@@ -8,22 +8,30 @@
 </head>
 <body>
     
-    <div class="container">
-        <div class="card">
-            <h3>Player</h3>
-            <img src="../media/player/player.jpg" alt="">
+    <div class="dash-container">
+        <div class="dash-card">
+            <a href="player.php">
+                <h3>Player</h3>
+                <img src="../media/player/player.jpg" alt="">
+            </a>
         </div>
-        <div class="card">
-            <h3>Match</h3>
-            <img src="../media/match/match.webp" alt="">
+        <div class="dash-card">
+            <a href="match.php">
+                <h3>Match</h3>
+                <img src="../media/match/match.webp" alt="">
+            </a>
         </div>
-        <div class="card">
-            <h3>Merch</h3>
-            <img src="../media/merch/all.jpg" alt="">
+        <div class="dash-card">
+            <a href="merch.php">
+                <h3>Merch</h3>
+                <img src="../media/merch/all.jpg" alt="">
+            </a>
         </div>
-        <div class="card">
-            <h3>Achievement</h3>
-            <img src="../media/match/won.webp" alt="">
+        <div class="dash-card">
+            <a href="achievment.php">
+                <h3>Achievement</h3>
+                <img src="../media/match/won.webp" alt="">
+            </a>
         </div>
 
     </div>
