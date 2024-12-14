@@ -13,7 +13,7 @@
         </div>
         <nav>
             <ul>
-                <li><a href="home.php">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="match.php">Match</a></li>
                 <li><a href="profile.php">Profile</a></li>
                 <li><a href="merch.php">Merch</a></li>
